@@ -4,7 +4,7 @@
 #include <string.h>
 
 // B2578 : ºù°í
-#if 01
+#if 0
 int main(void)
 {
 	int arr[5][5] = { 0 };

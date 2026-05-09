@@ -18,5 +18,8 @@
     <ClCompile Include="B2578.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="JUNGOL_TEMP.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
